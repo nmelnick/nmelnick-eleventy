@@ -1,5 +1,5 @@
 ---
-title: About us
+title: "About Nick"
 metaDescription: This is a sample meta description. If one is not present in your page/post's front matter, the default metadata.desciption will be used instead.
 date: 2017-01-01T00:00:00.000Z
 permalink: /about/index.html
@@ -7,27 +7,18 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hi, I'm Nick Melnick, a technology leader and tinkerer in Toronto, Ontario, Canada. My day consists of rebuilding the software foundation for the Geezeo division of Jack Henry and Associates, and advising Comecero on software, technology, security, and infrastructure. The content and opinions on this site, however, are my own. I occasionally write about technology, entrepreneurship, vintage computers, cars, community, and where all the time has gone.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+[Software and Hardware I use daily](/uses)  
+[Resume](/resume)  
+[The Vintage Collection](/the-vintage-collection/)
 
-## Our services
+### Background
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I have over twenty years of experience in software and IT, and over fifteen years of leadership experience across a diverse portfolio including e-commerce, compliance, health, and fintech.
 
-### Blue-sky thinking
+Previously, I've been a Director of Software Engineering at SPS Commerce, a Director of Development at Digital River, and a System Architect at G2 Web Services. I've worked on a ton of small companies and startups throughout Seattle and Minneapolis, and it's very likely that you haven't heard of them or they've disappeared entirely.
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+I built a social networking site before it was cool, and let it die because I had rent to pay. You may have heard of it if you were around in the early aughts.  
+  
+I am always open to coffee or chats about opportunities you'd like to discuss, never hesitate to reach out. I currently reside in Toronto, but visit other places as often as I can.

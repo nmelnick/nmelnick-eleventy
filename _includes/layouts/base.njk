@@ -13,6 +13,9 @@
 		</header>
 
 		<main>
+			{% if (coverImage) %}
+			<img class="page-hero" src="{{ coverImage }}" alt="Cover image for {{ title }}" />
+			{% endif %}
 			{{ layoutContent | safe }}
 		</main>
 
