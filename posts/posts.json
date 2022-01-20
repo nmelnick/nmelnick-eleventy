@@ -1,7 +1,7 @@
 {
   "layout": "layouts/post.njk",
-  "permalink": "posts/{{ title | slug }}/index.html",
-  "author": "Anonymous",
+  "permalink": "posts/{{ slug | page.filePathStem }}/index.html",
+  "author": "Nick Melnick",
   "tags": [
     "post"
   ]
