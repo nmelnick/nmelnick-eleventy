@@ -1,6 +1,6 @@
 ---
 title: "Resume"
-date: "2018-10-04"
+date: "2021-01-20"
 permalink: /resume/index.html
 eleventyNavigation:
   key: Resume
@@ -10,16 +10,16 @@ Building on fifteen years of technical leadership and over twenty years of exper
 
 ## History
 
-Advisor, Technology – _Comecero, Salt Lake City, UT, April 2018 - Present_
+Advisor, Technology – _Comecero, Salt Lake City, UT, 2018 - Present_
 
-Consultant, Architecture and Engineering – _Jack Henry and Associates, formerly Geezeo, Braintree, MA, April 2016 - Present_
+Consultant, Architecture and Engineering – _Jack Henry and Associates (formerly Geezeo), Monett, MO, 2016 - Present_
 
-Director of Software Engineering – _SPS Commerce, Minneapolis, MN, Oct. 2014 – April 2016_
+Director of Software Engineering – _SPS Commerce, Minneapolis, MN, 2014 – 2016_
 
-Director of Development – _Digital River, Inc., Minnetonka, MN, Jan. 2010 – Oct. 2014_
+Director of Development – _Digital River, Inc., Minnetonka, MN, 2010 – 2014_
 
-Consultant, Software and Systems – _Golden Guru, LLC, Port Orchard, WA, Feb. 2008 – Jan. 2010_
+Consultant, Software and Systems – _Golden Guru, LLC, Port Orchard, WA, 2008 – 2010_
 
-System Architect – _G2 Web Services, Bellevue, WA, Oct. 2006 – Feb. 2008_
+System Architect – _G2 Web Services, Bellevue, WA, 2006 – 2008_
 
-Senior Technology Manager – _NexTune, Inc., Redmond, WA, Sep. 2005 – Oct. 2006_
+Senior Technology Manager – _NexTune, Inc., Redmond, WA, 2005 – 2006_

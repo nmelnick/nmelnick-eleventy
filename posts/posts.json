@@ -1,6 +1,6 @@
 {
   "layout": "layouts/post.njk",
-  "permalink": "posts/{{ slug | page.filePathStem }}/index.html",
+  "permalink": "posts/{% if slug %}{{ slug }}{% else %}{{ page.filePathStem }}{% endif %}/index.html",
   "author": "Nick Melnick",
   "tags": [
     "post"
